@@ -1,0 +1,22 @@
+[
+    {
+        "title": "So you want to be a coder?",
+        "content": "So you want to be a coder? Well you better buckle up and put in the hours because you won't become one overnight!",
+        "user_id": 1
+    },
+    {
+        "title": "Best way to deal with burnout?",
+        "content": "Step away from the computer, do some yoga, read a book - just don't think about work and take some time to yourself!",
+        "user_id": 2
+    },
+    {
+        "title": "People complain about COVID and going into lockdown...",
+        "content": "I tell you what, COVID was the best thing that happened to me! It allowed me to develop my coding skills and ultimately change my career path! I do miss going out and having fun though...",
+        "user_id": 3
+    },
+    {
+        "title": "The impact of digital disruption",
+        "content": "When an industry experiences digital disruption, it typically signals that consumer needs are shifting. Therefore, understanding the disruption allows companies to keep existing customers happy as well as create opportunities for new customers. Allows you to employ customer data in new, innovative ways.",
+        "user_id": 4
+    }
+]
