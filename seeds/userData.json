@@ -1,17 +1,18 @@
 [
     {
-        "name": "Timmy",
-        "email": "timmy2shoes@email.com",
+        "username": "Timmy2shoes",
         "password": "timmy123"
     },
     {
-        "name": "Sarah",
-        "email": "sarahwins@email.com",
+        "username": "Sarahwins",
         "password": "sarah123"
     },
     {
-        "name": "Dave",
-        "email": "bigdave@email.com",
+        "username": "BigDave",
         "password": "dave12345"
+    },
+    {
+        "username": "TheChamp",
+        "password": "champion123"
     }
 ]
