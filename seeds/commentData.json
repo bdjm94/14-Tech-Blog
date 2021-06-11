@@ -1,0 +1,22 @@
+[
+    {
+        "comment_text": "I'm going to put in the hard yards!",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "comment_text": "Thanks for the helpful tips - I'm going to step away now",
+        "user_id": 2,
+        "post_id": 2
+    },
+    {
+        "comment_text": "Congrats! Sounds like it was meant to be!",
+        "user_id": 3,
+        "post_id": 3
+    },
+    {
+        "comment_text": "This was an interesting read!",
+        "user_id": 4,
+        "post_id": 4
+    }
+]
